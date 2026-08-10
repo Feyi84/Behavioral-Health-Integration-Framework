@@ -65,7 +65,7 @@ This phase focuses on scaling the behavioral health integration systems nationwi
 
 Figure 5. Phase 4 National Scaling and Sustainability Ecosystem
 
-![Figure 5. Phase 4 National Scaling and Sustainability Ecosystem](assets/figure5.png)
+[Figure 5. Phase 4 National Scaling and Sustainability Ecosystem](assets/figure5.png)
 
 Activities
 

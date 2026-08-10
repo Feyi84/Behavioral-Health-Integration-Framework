@@ -1,5 +1,6 @@
 # Behavioral-Health-Integration-Framework
-    # My Model and Plan for Advancing the Endeavor
+
+## My Model and Plan for Advancing the Endeavor
 
 My proposed endeavor is a multi-phase initiative designed to develop and implement scalable, evidence-based behavioral health integration and delivery systems that improve early identification, expand access to coordinated care, and strengthen population-level clinical and public health decision-making nationwide. The plan is structured across four phases, including Research, Development, Pilot, and National Scaling, each incorporating training as a core component to ensure sustainability and capacity building.
 

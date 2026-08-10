@@ -5,7 +5,7 @@ My proposed endeavor is a multi-phase initiative designed to develop and impleme
 
 Figure 1. Four-Phase Behavioral Health Integration Roadmap
 
-![Figure 1. Four-Phase Behavioral Health Integration Roadmap](assets/figure1.png)
+![Figure 1. Four-Phase Behavioral Health Integration Roadmap](figure1.png)
 
 ## Phase 1: Research & Evidence Generation (Year 1)
 
@@ -13,7 +13,7 @@ This phase focuses on establishing the evidence base for the proposed behavioral
 
 Figure 2. Phase 1 Evidence-Generation Framework
 
-![Figure 2. Phase 1 Evidence-Generation Framework](assets/figure2.png)
+![Figure 2. Phase 1 Evidence-Generation Framework](figure2.png)
 
 Activities
 
@@ -31,7 +31,7 @@ This phase focuses on translating research findings into scalable behavioral hea
 
 Figure 3. Phase 2 Behavioral Health Integration Architecture
 
-![Figure 3. Phase 2 Behavioral Health Integration Architecture](assets/figure3.png)
+![Figure 3. Phase 2 Behavioral Health Integration Architecture](figure3.png)
 
 Activities
 
@@ -48,7 +48,7 @@ This phase focuses on real-world testing, refinement, and evaluation of the beha
 
 Figure 4. Phase 3 Multi-Site Pilot and Evaluation Framework
 
-![Figure 4. Phase 3 Multi-Site Pilot and Evaluation Framework](assets/figure4.png)
+![Figure 4. Phase 3 Multi-Site Pilot and Evaluation Framework](figure4.png)
 
 Activities
 
@@ -65,7 +65,7 @@ This phase focuses on scaling the behavioral health integration systems nationwi
 
 Figure 5. Phase 4 National Scaling and Sustainability Ecosystem
 
-[Figure 5. Phase 4 National Scaling and Sustainability Ecosystem](assets/figure5.png)
+[Figure 5. Phase 4 National Scaling and Sustainability Ecosystem](figure5.png)
 
 Activities
 
